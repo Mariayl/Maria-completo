@@ -8,15 +8,63 @@ ul{
 #menu li a
 	{
 	font-family:verdana;
-	font-size:15px;
+	font-size:25px;
 	float:left; 
-	padding:24px;
+	padding:34px;
 	background-color:#0f71ba;
 	color: #fff;
 	text-decoration:none;
-	height:18px;
+	height:20px;
 	}
 #menu li a:hover
 {
-	background-color:#f90;margin-top:-2px;font-weight:bold;
+	background-color:#f100;margin-top:-2px;font-weight:bold;
+}
+
+
+			
+#header {
+margin:auto;/*margen del header del inicio de pagina*/
+width:1500px;/*ancho del header*/
+font-family:Comic sans-serif, Helvetica, sans-serif;/*tipo de letra.*/
+}
+
+ul, ol {
+list-style:none;/*Elimina el estilo*/
+}
+	
+.nav > li {
+float:left;/*orden de los elementos de la lista */
+}
+	
+.nav li a {
+background-color:violet;/*color de fondo*/
+color:#fff;/*color de la letra*/
+text-decoration:none;/*subrayado de la linea*/
+padding:25px 25px;/*grosor de los elementos*/
+display:block;/*mostrar otros elemntos*/
+}
+
+.nav li a:hover {
+background-color:green;/*color del contorno  */
+}
+	
+.nav li ul {
+display:none;/*muestra otros elemntos*/
+position:absolute;
+min-width:140px; 
+}
+
+.nav li:hover > ul {
+display:block;/*vista de los elementos con el contacto del cursor sobre ellos.*/
+}
+
+.nav li ul li {
+position:relative;
+}
+
+.nav li ul li ul {
+right:-140px;/*posicion del siguiente elemento*/
+top:0px;
+}
 }
