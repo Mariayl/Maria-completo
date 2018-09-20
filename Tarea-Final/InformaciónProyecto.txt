@@ -1,9 +1,9 @@
 Rubro del sitio:
-	Comercio Femenino
+	Ropa Femenina
 contexto y segmento de clientes orientado:
-	vestimenta femenina
+	Comercio femenino
 Nombre del sitio: 
-	Marieth Boutique
+	Marieth Boutique https://bellas.com/
 Paletas de colores:
 	https://www.ugb.edu.sv/images/2017/03/24/logo-ugb-vertical.png
 Tipografia:
