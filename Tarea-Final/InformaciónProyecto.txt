@@ -3,7 +3,7 @@ Rubro del sitio:
 contexto y segmento de clientes orientado:
 	Comercio femenino
 Nombre del sitio: 
-	Marieth Boutique https://bellas.com/
+	 https://bellas.com/
 Paletas de colores:
 	https://www.ugb.edu.sv/images/2017/03/24/logo-ugb-vertical.png
 Tipografia:
