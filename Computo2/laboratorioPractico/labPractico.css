@@ -68,8 +68,9 @@ right:-140px;/*posicion del siguiente elemento*/
 top:0px;
 }
 }
-h1{
-font-family:https://fonts.google.com/specimen/Indie+Flower;
+#bella{
+font-family: 'Raleway', sans-serif;
+color:#0000;
 }
 header{
 position:center;
