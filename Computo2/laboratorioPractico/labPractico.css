@@ -1,0 +1,130 @@
+ul{
+	list-style-type:none;
+	}
+#all-menu 
+{
+	width:auto;height: 68px;background-color:#0f71ba;
+}
+#menu li a
+	{
+	font-family:verdana;
+	font-size:25px;
+	float:left; 
+	padding:34px;
+	background-color:#0f71ba;
+	color: #fff;
+	text-decoration:none;
+	height:20px;
+	}
+#menu li a:hover
+{
+	background-color:#f100;margin-top:-2px;font-weight:bold;
+}
+
+
+			
+#header {
+margin:auto;/*margen del header del inicio de pagina*/
+width:1500px;/*ancho del header*/
+font-family:Comic sans-serif, Helvetica, sans-serif;/*tipo de letra.*/
+}
+
+ul, ol {
+list-style:none;/*Elimina el estilo*/
+}
+	
+.nav > li {
+float:left;/*orden de los elementos de la lista */
+}
+	
+.nav li a {
+background-color:#A1E8C1;/*color de fondo*/
+color:#fff;/*color de la letra*/
+text-decoration:none;/*subrayado de la linea*/
+padding:25px 25px;/*grosor de los elementos*/
+display:block;/*mostrar otros elemntos*/
+}
+
+.nav li a:hover {
+background-color:green;/*color del contorno  */
+}
+	
+.nav li ul {
+display:none;/*muestra otros elemntos*/
+position:absolute;
+min-width:140px; 
+}
+
+.nav li:hover > ul {
+display:block;/*vista de los elementos con el contacto del cursor sobre ellos.*/
+}
+
+.nav li ul li {
+position:relative;
+}
+
+.nav li ul li ul {
+right:-140px;/*posicion del siguiente elemento*/
+top:0px;
+}
+}
+h1{
+font-family:https://fonts.google.com/specimen/Indie+Flower;
+}
+header{
+position:center;
+background-color:#FFD8B7;
+color:#FFF;
+width:98%;
+height:23%;
+margin: 0px auto;
+}
+section{
+position:relative;
+float:left;
+background-color:#FFD4D5;
+width:78%;
+height:58%;
+color:#FFF;
+}
+article{
+background-color:#pink;
+width:98%;
+height:58%;
+color:#FFF;
+}
+aside{
+position:relative;
+background-color:#CEF19E;
+width:18%;
+height:55%;
+color:#FFF;
+float:left;
+}
+footer{
+position:relative;
+background-color:#CEF19E;
+width:98%;
+height:5%;
+color:#FFF;
+clear:both;
+text-align: right;
+}
+header,section,footer,aside,article,nav{
+margin:1%;
+}
+.row > div{
+		padding: 10px;
+		background: #ddd;
+		border: 1px solid #fff;
+		margin: 6px;
+		background-color:#ffff;	
+	}
+.row{
+	margin: 40px auto;
+}	
+}
+img{
+	width:20px;
+	height:20px;
+}
