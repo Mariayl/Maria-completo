@@ -35,6 +35,7 @@ list-style:none;/*Elimina el estilo*/
 	
 .nav > li {
 float:left;/*orden de los elementos de la lista */
+z-index: 1000;
 }
 	
 .nav li a {
