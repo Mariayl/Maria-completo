@@ -39,7 +39,7 @@ float:left;/*orden de los elementos de la lista */
 	
 .nav li a {
 background-color:#A1E8C1;/*color de fondo*/
-color:#fff;/*color de la letra*/
+color:#black;/*color de la letra*/
 text-decoration:none;/*subrayado de la linea*/
 padding:25px 25px;/*grosor de los elementos*/
 display:block;/*mostrar otros elemntos*/
@@ -75,7 +75,7 @@ color:#0000;
 header{
 position:center;
 background-color:#FFD8B7;
-color:#FFF;
+color:#black;
 width:98%;
 height:23%;
 margin: 0px auto;
